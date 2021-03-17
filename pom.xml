@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.netology</groupId>
-    <artifactId>Java2.9-1Radio</artifactId>
+    <artifactId>Java2.9-ProductManager</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
